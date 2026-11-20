@@ -4,13 +4,13 @@
 
 *Performance, resolution & quality-of-life mods, served in tidy little bubbles.*
 
-[![NX1](https://img.shields.io/badge/NX1-Mods-0A84FF?style=flat-square)](#nx1) [![NX2](https://img.shields.io/badge/NX2-Projects-BF5AF2?style=flat-square)](#nx2) ![Mods](https://img.shields.io/badge/140_mods-30D158?style=flat-square) ![Games](https://img.shields.io/badge/34_games-FF9F0A?style=flat-square)
+[![NX1](https://img.shields.io/badge/NX1-Mods-0A84FF?style=flat-square)](#nx1) [![NX2](https://img.shields.io/badge/NX2-Projects-BF5AF2?style=flat-square)](#nx2) ![Mods](https://flat.badgen.net/static/144/mods/green) ![Games](https://img.shields.io/badge/34_games-FF9F0A?style=flat-square)
 
 </div>
 
 ---
 
-### 🔴🟡🟢 Usage
+## 🔴🟡🟢 Usage
 
 > [!TIP]
 > For info on how to use mods, refer to the [Game Modding page](https://yuzu-mirror.github.io/help/feature/game-modding/).
@@ -20,6 +20,16 @@
 <a id="nx1"></a>
 
 ## 🔴🟡🟢 NX1 - Mods
+
+<!--
+  ➕ ADD A NEW NX1 MOD: copy this row to the END of the table below (keep it on ONE line).
+
+| **Game Title** | Mod Name | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://example.com/mod.zip) | `1.0.0` `1.1.0` | [CreditName](https://github.com/CreditName), Other Credit |
+
+  Columns:  Game | Mod | Download URL | Game versions (each in `backticks`, or `Any`) | Credit (comma-separated, link optional)
+  Tip:      Use the same "Game Title" spelling as existing rows so the mods stay grouped together.
+  Then:     Bump the "mods" / "games" badges at the top.
+-->
 
 <details open>
 <summary><b>Show / hide all NX1 mods</b></summary>
@@ -42,12 +52,12 @@
 | **Donkey Kong Country: Tropical Freeze** | 32:9 Super Ultrawide | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://github.com/victoria4dx/switch-mods/raw/main/Donkey%20Kong:%20Tropical%20Freeze/1.0.2/0100C1F0051B6000/32.9%20Super%20Ultrawide.zip) | `1.0.2` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Donkey Kong Country: Tropical Freeze** | 21:9 Ultrawide | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://github.com/victoria4dx/switch-mods/raw/main/Donkey%20Kong:%20Tropical%20Freeze/1.0.2/0100C1F0051B6000/21.9%20Ultrawide.zip) | `1.0.2` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Donkey Kong Country: Tropical Freeze** | 4K Resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://github.com/theboy181/switch-ptchtxt-mods/raw/main/Donkey%20Kong%20Country:%20Tropical%20Freeze/%5B0100C1F0051B6000%5D/1.0.0/4K-2K.rar) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| **Fire Emblem: Three Houses** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/495758692495523854/762098744396218398/60_FPS.zip) | `masagrator` |  |
+| **Fire Emblem: Three Houses** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/495758692495523854/762098744396218398/60_FPS.zip) | — | masagrator |
 | **Fire Emblem: Three Houses** | Outline Removal | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Fire%20Emblem%20Three%20Houses/Outline_Removal.zip) | `1.0.2` `1.1.0` `1.1.1` `1.2.0` | MegaMagikarp |
 | **Good Job!** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Good%20Job/SPOILER_GoodJob60FPS.zip) | `1.0.0` | Kirby567fan |
 | **Kirby: Star Allies** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Kirby%20Star%20Allies/60FPS.zip) | `4.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| **Kirby and the Forgotten Land** | 32:9 Aspect Ratio | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Kirby%20and%20the%20Forgotten%20Land/32.9%20Super%20Ultrawide.zip) | `1.0.0` | victoria4dx, [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| **Kirby and the Forgotten Land** | 21:9 Aspect Ratio | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Kirby%20and%20the%20Forgotten%20Land/21.9.rar) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| **Kirby and the Forgotten Land** | 32:9 Super Ultrawide | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Kirby%20and%20the%20Forgotten%20Land/32.9%20Super%20Ultrawide.zip) | `1.0.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| **Kirby and the Forgotten Land** | 21:9 Ultrawide | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Kirby%20and%20the%20Forgotten%20Land/21.9.rar) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Kirby and the Forgotten Land** | Disable Dynamic Resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Kirby%20and%20the%20Forgotten%20Land/Disable%20Dynamic%20Resolution.rar) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Kirby and the Forgotten Land** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Kirby%20and%20the%20Forgotten%20Land/60fps.rar) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Kirby and the Forgotten Land** | Full 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Kirby%20and%20the%20Forgotten%20Land/60fps%20-%20%20Full.rar) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
@@ -62,12 +72,12 @@
 | **Mario Kart 8 Deluxe** | 21:9 Ultrawide | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Mario%20Kart%208%20Deluxe/21.9%20Ultrawide.zip) | `2.0.0` | [victoria4dx](https://github.com/victoria4dx/switch-mods), [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Mario Kart 8 Deluxe** | Force FXAA | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Mario%20Kart%208%20Deluxe/Force_FXAA_On.zip) | `1.7.1` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Mario Kart 8 Deluxe** | Improved LOD | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Mario%20Kart%208%20Deluxe/Level_of_Detail_Enhance.zip) | `1.7.1` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| **Mario Strikers™: Battle League** | No Intro/Credits bypass mod | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Mario%20Strikers%20Battle%20League/cutscene%20skip.7z) | `1.0.0` | piplup55 |
+| **Mario Strikers™: Battle League** | No Intro/Credits Bypass | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Mario%20Strikers%20Battle%20League/cutscene%20skip.7z) | `1.0.0` | piplup55 |
 | **Mario Tennis Aces** | Disable Dynamic Resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Mario%20Tennis%20Aces/Disable_Dynamic_Resolution.zip) | `1.0.0` `3.1.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Mario Tennis Aces** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Mario%20Tennis%20Aces/60fps.rar) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Metroid Dread** | Disable Bloom | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Metroid%20Dread/Disable_Bloom.7z) | `1.0.0` | Edgarska |
 | **Metroid Dread** | Disable FXAA | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Metroid%20Dread/Disable_FXAA.7z) | `1.0.0` | Edgarska |
-| **Monster Hunter Generations Ultimate** | 60FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Monster%20Hunter%20Generations%20Ultimate/60FPS_mod.rar) | `1.4.0` | masagrator |
+| **Monster Hunter Generations Ultimate** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Monster%20Hunter%20Generations%20Ultimate/60FPS_mod.rar) | `1.4.0` | masagrator |
 | **Monster Hunter Generations Ultimate** | 4K Resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Monster%20Hunter%20Generations%20Ultimate/4K-2K.rar) | `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Monster Hunter Generations Ultimate** | 120 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Monster%20Hunter%20Generations%20Ultimate/120fps-v1.4.0.rar) | `1.4.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **No More Heroes 3** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/No%20More%20Heroes%203/NMH3_60FPS.zip) | `1.0.2` | Kirby567Fan |
@@ -106,7 +116,7 @@
 | **Pokemon Shield (exeFS)** | Force Max Resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/356187763139280896/849209811420577832/Force_max_resolution_shield.zip) | `1.0.0` `1.2.0` `1.2.1` `1.3.0` `1.3.1` `1.3.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan, Morph, DuIslingr |
 | **Pokemon Shield (exeFS)** | Remove Outlines | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/893635908157464657/913905256725884989/Remove-Outlines-Shield.zip) | `1.0.0` `1.3.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Norstyrm |
 | **Pokemon Shield (exeFS)** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/356187763139280896/849209829469585408/60-FPS-shield.zip) | `1.0.0` `1.2.0` `1.2.1` `1.3.0` `1.3.1` `1.3.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan, Morph, DuIslingr |
-| **Pokemon Shield (exeFS)** | Y Comm Wifi Fix | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/356187763139280896/849209815720001586/Pokemon-Shield-Wifi-Fix.zip) | `1.0.0` `1.2.0` `1.2.1` `1.3.0` `1.3.1` `1.3.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), DuIslingr , Claude von Riegan |
+| **Pokemon Shield (exeFS)** | Y Comm Wifi Fix | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/356187763139280896/849209815720001586/Pokemon-Shield-Wifi-Fix.zip) | `1.0.0` `1.2.0` `1.2.1` `1.3.0` `1.3.1` `1.3.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), DuIslingr, Claude von Riegan |
 | **Pokemon Sword/Shield (romFS)** | ReTextured 1.6 | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://bit.ly/3rKjhYz) | `1.2.0` `1.2.1` `1.3.0` `1.3.1` `1.3.2` | BSoD Gaming |
 | **Pokemon Sword/Shield (romFS)** | ReTextured 1.6 Alternate Link | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](http://bit.ly/37VnVL3) | `1.2.0` `1.2.1` `1.3.0` `1.3.1` `1.3.2` | BSoD Gaming |
 | **Shin Megami Tensei V** | Forced 1080p, 60 FPS, Increased LOD, Disabled Ambient Occlusion | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Shin%20Megami%20Tensei%20V/Config_SMTV_1080p.zip) | `1.0.0` `1.0.1` | TheHatedGravity |
@@ -147,7 +157,7 @@
 | **Super Smash Bros. Ultimate** | 30 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Smash%20Bros%20Ultimate/30_FPS.zip) | `1.0.0` `3.1.0` `7.0.0` `8.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan |
 | **Super Smash Bros. Ultimate** | Boot Straight to Menu | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Super%20Smash%20Bros%20Ultimate/Boot_Straight_to_menu.zip) | `1.0.0` `3.1.0` `7.0.0` `8.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Claude von Riegan |
 | **The Legend of Zelda: Breath of the Wild** | Clean UI | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild/34141) | `Any` | Eloeri, Leoetlino |
-| **The Legend of Zelda: Breath of the Wild** | Disable dynamic Resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/356187763139280896/798516683936759848/Disable_Dynamic_Resolution.zip) | `1.0.0` `1.6.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| **The Legend of Zelda: Breath of the Wild** | Disable Dynamic Resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/356187763139280896/798516683936759848/Disable_Dynamic_Resolution.zip) | `1.0.0` `1.6.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **The Legend of Zelda: Breath of the Wild** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/356187763139280896/798516557982072852/60FPS.zip) | `1.6.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **The Legend of Zelda: Link's Awakening** | Blur Removal | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Links%20Awakening/Blur_Removal.zip) | `1.0.0` `1.0.1` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **The Legend of Zelda: Link's Awakening** | Infinite Cheats | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Links%20Awakening/zla-cheats.zip) | `1.0.0` | CJBoK |
@@ -155,7 +165,7 @@
 | **The Legend of Zelda: Link's Awakening** | Stable 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Links%20Awakening/Stable-60fps-v2.zip) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **The Legend of Zelda: Skyward Sword HD** | 30 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD/30fps.zip) | `1.0.0` `1.0.1` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Nimbo |
 | **The Legend of Zelda: Skyward Sword HD** | 1440p/2K Resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD/2K.rar) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
-| **The Legend of Zelda: Skyward Sword HD** | 2160p/4K resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD/4K.rar) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
+| **The Legend of Zelda: Skyward Sword HD** | 2160p/4K Resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Skyward%20Sword%20HD/4K.rar) | `1.0.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **Xenoblade Chronicles: Definitive Edition** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/60_FPS.zip) | `1.0.0` `1.1.2` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods), Kirby567fan, DuIslingr |
 | **Xenoblade Chronicles: Definitive Edition** | More Affinity Coins (x4) | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Affinity%20Coins%20%28x4%29.zip) | `1.1.2` | lasyan3 |
 | **Xenoblade Chronicles: Definitive Edition** | More Affinity Coins (x8) | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Affinity%20Coins%20%28x8%29.zip) | `1.1.2` | lasyan3 |
@@ -163,8 +173,8 @@
 | **Xenoblade Chronicles: Definitive Edition** | More Arts Points (x4) | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Arts%20Points%20%28x4%29.zip) | `1.1.2` | lasyan3 |
 | **Xenoblade Chronicles: Definitive Edition** | More Skills Points (x2) | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Skills%20Points%20%28x2%29.zip) | `1.1.2` | lasyan3 |
 | **Xenoblade Chronicles: Definitive Edition** | More Skills Points (x4) | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/More%20Skills%20Points%20%28x4%29.zip) | `1.1.2` | lasyan3 |
-| **Xenoblade Chronicles: Definitive Edition** | Speed increased (x1.25) | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/Speed%20increased%20%28x1.25%29.zip) | `1.1.2` | lasyan3 |
-| **Xenoblade Chronicles: Definitive Edition** | Speed increased (x1.5) | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/Speed%20increased%20%28x1.5%29.zip) | `1.1.2` | lasyan3 |
+| **Xenoblade Chronicles: Definitive Edition** | Speed Increased (x1.25) | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/Speed%20increased%20%28x1.25%29.zip) | `1.1.2` | lasyan3 |
+| **Xenoblade Chronicles: Definitive Edition** | Speed Increased (x1.5) | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/Xenoblade%20Chronicles%20Definitive%20Edition/Speed%20increased%20%28x1.5%29.zip) | `1.1.2` | lasyan3 |
 | **Xenoblade Chronicles 3** | Bloom/Brightness Bug Workaround (Vulkan) | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/495758692495523854/1007153835371921448/Vulkan_Workaround.rar) | `1.1.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 
 </details>
@@ -175,15 +185,18 @@
 
 ## 🔴🟡🟢 NX2 - Mods
 
+<!--
+  ➕ ADD A NEW NX2 PROJECT: copy this row to the END of the table below (keep it on ONE line).
+
+| <a href="https://github.com/USER/REPO/"><img src="https://images.weserv.nl/?url=github.com/USER.png&w=96&h=96&fit=cover&mask=circle" width="48" alt="Logo"></a> | **Project Name** | [![GitHub](https://img.shields.io/badge/GitHub-BF5AF2?style=flat-square&logo=github)](https://github.com/USER/REPO/) | Applies to (optional) | [USER](https://github.com/USER) |
+-->
+
 <details open>
 <summary><b>🫧 Show / hide all NX2 projects</b></summary>
 
 | 🫧 Logo | ✨ Mod / Project | ⬇️ Link | 🏷️ Applies to | 💙 Credit |
 | :---: | :--- | :---: | :--- | :--- |
-| <a href="https://github.com/zortos293/Lichii/"><img src="https://images.weserv.nl/?url=github.com/zortos293.png&w=96&h=96&fit=cover&mask=circle" width="48" alt="Lichii logo"></a> | **Lichii** | [![GitHub](https://img.shields.io/badge/GitHub-BF5AF2?style=flat-square&logo=github)](https://github.com/zortos293/Lichii/) | | [zortos293](https://github.com/zortos293) |
-| | | | | |
-| | | | | |
-| | | | | |
+| <a href="https://github.com/zortos293/Lichii/"><img src="https://images.weserv.nl/?url=github.com/zortos293.png&w=96&h=96&fit=cover&mask=circle" width="48" alt="Lichii logo"></a> | **Lichii** | [![GitHub](https://img.shields.io/badge/GitHub-BF5AF2?style=flat-square&logo=github)](https://github.com/zortos293/Lichii/) | — | [zortos293](https://github.com/zortos293) |
 
 </details>
 
