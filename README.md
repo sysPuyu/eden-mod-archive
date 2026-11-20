@@ -4,7 +4,7 @@
 
 *Performance, resolution & quality-of-life mods, served in tidy little bubbles.*
 
-[![NX1](https://img.shields.io/badge/NX1-Mods-0A84FF?style=flat-square)](#nx1) [![NX2](https://img.shields.io/badge/NX2-Projects-BF5AF2?style=flat-square)](#nx2) ![Mods](https://flat.badgen.net/static/144/mods/green) ![Games](https://img.shields.io/badge/34_games-FF9F0A?style=flat-square)
+[![NX1](https://img.shields.io/badge/NX1-Mods-0A84FF?style=flat-square)](#nx1) [![NX2](https://img.shields.io/badge/NX2-Projects-BF5AF2?style=flat-square)](#nx2) ![Mods](https://flat.badgen.net/static/146/mods/green) ![Games](https://img.shields.io/badge/34_games-FF9F0A?style=flat-square)
 
 </div>
 
