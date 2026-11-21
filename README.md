@@ -4,7 +4,7 @@
 
 *Performance, resolution & quality-of-life mods, served in tidy little bubbles.*
 
-[![NX1](https://img.shields.io/badge/NX1-Mods-0A84FF?style=flat-square)](#nx1) [![NX2](https://img.shields.io/badge/NX2-Projects-BF5AF2?style=flat-square)](#nx2) ![Mods](https://flat.badgen.net/static/147/mods/green) ![Games](https://img.shields.io/badge/35_games-FF9F0A?style=flat-square)
+[![NX1](https://img.shields.io/badge/NX1-Mods-0A84FF?style=flat-square)](#nx1) [![NX2](https://img.shields.io/badge/NX2-Projects-BF5AF2?style=flat-square)](#nx2) ![Mods](https://flat.badgen.net/static/151/mods/green) ![Games](https://img.shields.io/badge/35_games-FF9F0A?style=flat-square)
 
 </div>
 
@@ -160,6 +160,10 @@
 | **The Legend of Zelda: Breath of the Wild** | Disable Dynamic Resolution | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/356187763139280896/798516683936759848/Disable_Dynamic_Resolution.zip) | `1.0.0` `1.6.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **The Legend of Zelda: Breath of the Wild** | 60 FPS | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://cdn.discordapp.com/attachments/356187763139280896/798516557982072852/60FPS.zip) | `1.6.0` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **The Legend of Zelda: Breath of the Wild** | Linkle Mod 3.0.1 Port | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://github.com/sysPuyu/eden-mod-archive/tree/master/mods/NX1/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild/Linkle) | `1.0.0` | [lynard killer](https://gamebanana.com/members/1624901) |
+| **The Legend of Zelda: Breath of the Wild** | Linkle's Diary | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://github.com/sysPuyu/eden-mod-archive/tree/master/mods/NX1/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild/Linkles_Diary) | `1.0.0` |
+| **The Legend of Zelda: Breath of the Wild** | Royal Weapons | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://github.com/sysPuyu/eden-mod-archive/tree/master/mods/NX1/ The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild/Royal%20Weapons) | `1.0.0` |
+| **The Legend of Zelda: Breath of the Wild** | Umbrella Glider | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://github.com/sysPuyu/eden-mod-archive/tree/master/mods/NX1/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild/Umbrella%20Glider) | `1.0.0` |
+| **The Legend of Zelda: Breath of the Wild** | Mannequin Fix | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://github.com/sysPuyu/eden-mod-archive/tree/master/mods/NX1/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild/Mannequin%20Fix) | `1.0.0` |
 | **The Legend of Zelda: Tears of the Kingdom** | The Linke Mod | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://github.com/sysPuyu/eden-mod-archive/tree/master/mods/NX1/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom/The%20Linkle%20Mod) | `1.2.1` | [Lady_Quanxi](https://gamebanana.com/members/3009474) |
 | **The Legend of Zelda: Link's Awakening** | Blur Removal | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Links%20Awakening/Blur_Removal.zip) | `1.0.0` `1.0.1` | [theboy181](https://github.com/theboy181/switch-ptchtxt-mods) |
 | **The Legend of Zelda: Link's Awakening** | Infinite Cheats | [![Download](https://img.shields.io/badge/Download-0A84FF?style=flat-square)](https://raw.githubusercontent.com/yuzu-mirror/yuzu-mod-archive/main/files/The%20Legend%20of%20Zelda%20Links%20Awakening/zla-cheats.zip) | `1.0.0` | CJBoK |
